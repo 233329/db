@@ -1,111 +1,299 @@
 {
   "products": [
+ 
     {
       "id": 1,
-      "name": "SHAAN Rejuvenation Cream",
-      "category": "Moisturizers",
+      "name": "Moist-1",
+      "category": "Body Care",
       "price": 150,
-      "image": "https://i.postimg.cc/1zndqJxH/Whats-App-Image-2025-04-11-at-8-24-19-AM.jpg"
+      "image": "https://i.postimg.cc/fyYn7fJG/Moist-1.jpg",
+      "description": "Deeply hydrating body cream with shea butter and hyaluronic acid. Provides 48-hour moisture for dry skin."
     },
     {
       "id": 2,
-      "name": "Axis-Y Dark Spot",
-      "category": "Korean",
-      "price": 900,
-      "image": "https://i.postimg.cc/RVGpbqw2/Whats-App-Image-2025-04-11-at-8-24-19-AM-1.jpg"
+      "name": "Alejon Body Milk",
+      "category": "Body Care",
+      "price": 300,
+      "image": "https://i.postimg.cc/fbQdBw21/Alejon-Body-Milk.jpg",
+      "description": "Lightweight body milk enriched with almond oil and vitamin E. Absorbs quickly without greasy residue."
     },
     {
       "id": 3,
-      "name": "Amanda Mascara",
-      "category": "Make-up",
-      "price": 300,
-      "image": "https://i.postimg.cc/YqyfWF62/Whats-App-Image-2025-04-11-at-8-24-20-AM.jpg"
+      "name": "Shaan Body Milk",
+      "category": "Body Care",
+      "price": 200,
+      "image": "https://i.postimg.cc/VsZb29Zq/Shaan-Body-Milk.jpg",
+      "description": "Nourishing body milk with coconut extract. Leaves skin soft and delicately fragranced."
     },
     {
       "id": 4,
-      "name": "Shaan Lip balm",
-      "category": "Lip balm",
-      "price": 90,
-      "image": "https://i.postimg.cc/3x8NYf4d/Whats-App-Image-2025-04-11-at-8-24-21-AM.jpg"
+      "name": "VitoCare Whitening Cream",
+      "category": "Body Care",
+      "price": 250,
+      "image": "https://i.postimg.cc/cH9ryZhx/Vitocare.jpg",
+      "description": "Brightening cream with natural extracts to even skin tone. Safe for daily use."
     },
     {
       "id": 5,
-      "name": "Eva Lip balm",
-      "category": "Lip balm",
-      "price": 80,
-      "image": "https://i.postimg.cc/KzMvJdVs/Whats-App-Image-2025-04-11-at-8-24-21-AM-1.jpg"
+      "name": "Veet Cream",
+      "category": "Body Care",
+      "price": 100,
+      "image": "https://i.postimg.cc/VLb5TxCw/Veet.jpg",
+      "description": "Hair removal cream that gently eliminates hair while moisturizing skin."
     },
     {
       "id": 6,
-      "name": "SHEGLAM jelly",
-      "category": "makeup",
-      "price": 350,
-      "image": "https://i.postimg.cc/T33dZyFb/Whats-App-Image-2025-04-11-at-8-24-22-AM.jpg"
+      "name": "Moroccan Oil Bath Soap",
+      "category": "Body Care",
+      "price": 250,
+      "image": "https://i.postimg.cc/MGzTnXrZ/Moroccan-oil-bath-soap.jpg",
+      "description": "Luxury soap infused with argan oil. Cleanses while maintaining skin's natural oils."
     },
     {
       "id": 7,
-      "name": "The Ordinary Glycolic",
-      "category": "BodyCare",
-      "price": 1000,
-      "image": "https://i.postimg.cc/fb6Mt8L7/Whats-App-Image-2025-04-11-at-8-24-22-AM-1.jpg"
+      "name": "Bio Soft Aloe Vera",
+      "category": "Body Care",
+      "price": 80,
+      "image": "https://i.postimg.cc/BZR2Xc5q/Aloe-Vera.jpg",
+      "description": "Soothing aloe vera gel for sunburns and skin irritation. 99% pure aloe extract."
     },
+
     {
       "id": 8,
-      "name": "SecretKey",
-      "category": "Korean",
-      "price": 1000,
-      "image": "https://i.postimg.cc/Y07k8jQh/Whats-App-Image-2025-04-11-at-8-24-22-AM-2.jpg"
+      "name": "Leylak Sunscreen",
+      "category": "Sunscreens",
+      "price": 300,
+      "image": "https://i.postimg.cc/d0Wyv8tc/Leylak-sun-screen.jpg",
+      "description": "SPF 50+ PA+++ sunscreen with matte finish. Protects against UVA/UVB rays."
     },
     {
       "id": 9,
-      "name": "Eva Facial Cleanser",
-      "category": "Cleansers",
-      "price": 200,
-      "image": "https://i.postimg.cc/gcyGjqPR/Whats-App-Image-2025-04-11-at-8-24-22-AM-3.jpg"
+      "name": "Infinity Sunscreen",
+      "category": "Sunscreens",
+      "price": 250,
+      "image": "https://i.postimg.cc/C58BjXCw/Infinity.jpg",
+      "description": "Lightweight sunscreen with blue light protection. Ideal for daily urban use."
     },
     {
       "id": 10,
-      "name": "TomFord",
-      "category": "perfumes",
-      "price": 1000,
-      "image": "https://i.postimg.cc/mgk4mv1N/Whats-App-Image-2025-04-11-at-8-24-23-AM.jpg"
+      "name": "Alejon Sunscreen",
+      "category": "Sunscreens",
+      "price": 320,
+      "image": "https://i.postimg.cc/8CC7yjdK/Alejon-Sun-Screen.jpg",
+      "description": "Broad spectrum SPF 50+ with aloe vera. Water-resistant for up to 80 minutes."
     },
+
+ 
     {
       "id": 11,
-      "name": "EIP",
-      "category": "perfumes",
-      "price": 500,
-      "image": "https://i.postimg.cc/x89DMhSm/Whats-App-Image-2025-04-11-at-8-24-23-AM-1.jpg"
+      "name": "Shaan Rejuvenation Cream",
+      "category": "Moisturizers",
+      "price": 150,
+      "image": "https://i.postimg.cc/B6rtQprk/SHAAN-Rejuvenation-Cream.jpg",
+      "description": "Anti-aging face cream with collagen boosters. Reduces fine lines."
     },
     {
       "id": 12,
-      "name": "Alejon body milk",
-      "category": "body care",
-      "price": 350,
-      "image": "https://i.postimg.cc/XNg04jwk/Whats-App-Image-2025-04-11-at-8-24-23-AM-2.jpg"
+      "name": "Alejon Facial Moisturizer Gel",
+      "category": "Moisturizers",
+      "price": 130,
+      "image": "https://i.postimg.cc/hGhGLNgN/Alejon-Facial-Moisturizer.jpg",
+      "description": "Oil-free gel moisturizer with hyaluronic acid. Perfect for oily/combination skin."
     },
+
+    
     {
       "id": 13,
-      "name": "Alejon facial moisturizers",
-      "category": "Moisturizers",
-      "price": 200,
-      "image": "https://i.postimg.cc/jdjBTzqR/Whats-App-Image-2025-04-11-at-8-24-24-AM.jpg"
+      "name": "Eva Vitamin-A Serum",
+      "category": "Serums",
+      "price": 150,
+      "image": "https://i.postimg.cc/T2n3JVM2/Eva-vitamin-A-serum.jpg",
+      "description": "Retinol serum for night-time use. Improves skin texture and reduces acne marks."
     },
     {
       "id": 14,
-      "name": "Alejon SunScreen",
-      "category": "Sunscreens",
+      "name": "Ordinary Niacinamide Serum",
+      "category": "Serums",
+      "price": 600,
+      "image": "https://i.postimg.cc/xCMng2Zp/Ordinary-niacinamide-serum.jpg",
+      "description": "10% niacinamide serum to minimize pores and control sebum production."
+    },
+    {
+      "id": 15,
+      "name": "Leylak Hyalo-C Serum",
+      "category": "Serums",
+      "price": 320,
+      "image": "https://i.postimg.cc/GmfRCtwS/Leylak-vitamin-c-serum.jpg",
+      "description": "Vitamin C + hyaluronic acid serum for brightening and hydration."
+    },
+
+   
+    {
+      "id": 16,
+      "name": "Shaan Lip Balm",
+      "category": "Lip Balms",
+      "price": 90,
+      "image": "https://i.postimg.cc/TwXZdWkQ/Shaan-Lip-Balm.jpg",
+      "description": "Medicated lip balm with SPF 15. Soothes chapped lips instantly."
+    },
+    {
+      "id": 17,
+      "name": "Amanda Lip Balm",
+      "category": "Lip Balms",
+      "price": 30,
+      "image": "https://i.postimg.cc/9F41kQbf/Amanda-Lip-Care.jpg",
+      "description": "Basic lip care with beeswax. Provides essential moisture."
+    },
+    {
+      "id": 18,
+      "name": "Eva Lip Balm",
+      "category": "Lip Balms",
+      "price": 80,
+      "image": "https://i.postimg.cc/CK0NdHgZ/Eva-Lip-Care.jpg",
+      "description": "Tinted lip balm available in 3 shades. Nourishes with jojoba oil."
+    },
+    {
+      "id": 19,
+      "name": "Bobana Lip Balm",
+      "category": "Lip Balms",
+      "price": 70,
+      "image": "https://i.postimg.cc/sxMPbTpL/Bobana-Lip-Balm.jpg",
+      "description": "Fruity-flavored lip balm with vitamin E. Paraben-free formula."
+    },
+
+    {
+      "id": 20,
+      "name": "Laneige Lip Sleeping Mask",
+      "category": "Korean Products",
+      "price": 400,
+      "image": "https://i.postimg.cc/q7pspJsy/Laneige-lip-sleeping-mask.jpg",
+      "description": "Overnight lip mask with berry extract complex. Wake up to softer lips."
+    },
+    {
+      "id": 21,
+      "name": "Axis-Y Dark Spot Serum",
+      "category": "Korean Products",
+      "price": 900,
+      "image": "https://i.postimg.cc/nr973Cxb/Axis-Y-Dark-Spot.jpg",
+      "description": "Korean dark spot corrector with niacinamide. Brightens hyperpigmentation."
+    },
+    {
+      "id": 22,
+      "name": "Secret Key Snow White Spot Gel",
+      "category": "Korean Products",
+      "price": 1100,
+      "image": "https://i.postimg.cc/13QCNZ05/Secret-Key-Snow-White-Spot-Gel.jpg",
+      "description": "Korean whitening gel with pearl extract. Lightens acne scars gradually."
+    },
+
+  
+    {
+      "id": 23,
+      "name": "M&N Highlighter",
+      "category": "Make-up",
+      "price": 250,
+      "image": "https://i.postimg.cc/vTnhcPcV/Highlighter.jpg",
+      "description": "Pearlescent highlighter for a natural glow. Buildable intensity."
+    },
+    {
+      "id": 24,
+      "name": "M&N Blush",
+      "category": "Make-up",
+      "price": 240,
+      "image": "https://i.postimg.cc/284TYKpp/M-N-blush.jpg",
+      "description": "Creamy blush with long-lasting color. Blends effortlessly."
+    },
+    {
+      "id": 25,
+      "name": "Alejon Eye-Contour",
+      "category": "Make-up",
       "price": 350,
-      "image": "https://i.postimg.cc/WpYXMxjP/Whats-App-Image-2025-04-11-at-8-24-24-AM-1.jpg"
+      "image": "https://i.postimg.cc/XJGcz2Kz/Alejon-Eye-Contour.jpg",
+      "description": "Anti-aging eye cream with light-reflecting particles."
+    },
+    {
+      "id": 26,
+      "name": "Sheglam Eye-Brows Soap",
+      "category": "Make-up",
+      "price": 100,
+      "image": "https://i.postimg.cc/RVQ1yJf4/Sheglam-Soap-Brows.jpg",
+      "description": "Brow soap for laminated brow effect. Hairs stay in place all day."
+    },
+    {
+      "id": 27,
+      "name": "Sheglam Jelly",
+      "category": "Make-up",
+      "price": 350,
+      "image": "https://i.postimg.cc/h4VVQQ2T/Sheglam-jelly.jpg",
+      "description": "Jelly-textured highlighter for a dewy, glass-skin finish."
+    },
+    {
+      "id": 28,
+      "name": "M&N Lip Stick & Gloss",
+      "category": "Make-up",
+      "price": 200,
+      "image": "https://i.postimg.cc/8cbFKWYY/M-N-Lip-gloss-stick.jpg",
+      "description": "2-in-1 lipstick with glossy finish. Hydrating formula."
+    },
+    {
+      "id": 29,
+      "name": "Amanda Mascara",
+      "category": "Make-up",
+      "price": 350,
+      "image": "https://i.postimg.cc/XvyrMthd/Amanda-Mascara.jpg",
+      "description": "Volumizing mascara that doesn't smudge. Water-resistant."
+    },
+
+    
+    {
+      "id": 30,
+      "name": "Duricef",
+      "category": "Medicine",
+      "price": 100,
+      "image": "https://i.postimg.cc/PfMPkW63/Duricef.jpg",
+      "description": "Cefadroxil 500mg antibiotic capsules. Consult doctor before use."
+    },
+    {
+      "id": 31,
+      "name": "Panadol",
+      "category": "Medicine",
+      "price": 60,
+      "image": "https://i.postimg.cc/nh9FMBkt/Panadol.jpg",
+      "description": "Paracetamol 500mg tablets for pain/fever relief."
+    },
+    {
+      "id": 32,
+      "name": "Temporal",
+      "category": "Medicine",
+      "price": 20,
+      "image": "https://i.postimg.cc/4NWHCGTh/Temporal-2.jpg",
+      "description": "Ibuprofen for headache relief. 400mg per tablet."
+    },
+    {
+      "id": 33,
+      "name": "Mucobrave",
+      "category": "Medicine",
+      "price": 75,
+      "image": "https://i.postimg.cc/QxFhtZT7/Mucobrave-2.jpg",
+      "description": "Cough syrup with honey flavor. Soothes throat irritation."
     }
+  ],
+  "categories": [
+    {"id": 1, "name": "Body Care", "image": "https://i.postimg.cc/fyYn7fJG/Moist-1.jpg"},
+    {"id": 2, "name": "Sunscreens", "image": "https://i.postimg.cc/d0Wyv8tc/Leylak-sun-screen.jpg"},
+    {"id": 3, "name": "Moisturizers", "image": "https://i.postimg.cc/B6rtQprk/SHAAN-Rejuvenation-Cream.jpg"},
+    {"id": 4, "name": "Serums", "image": "https://i.postimg.cc/T2n3JVM2/Eva-vitamin-A-serum.jpg"},
+    {"id": 5, "name": "Lip Balms", "image": "https://i.postimg.cc/TwXZdWkQ/Shaan-Lip-Balm.jpg"},
+    {"id": 6, "name": "Korean Products", "image": "https://i.postimg.cc/q7pspJsy/Laneige-lip-sleeping-mask.jpg"},
+    {"id": 7, "name": "Make-up", "image": "https://i.postimg.cc/vTnhcPcV/Highlighter.jpg"},
+    {"id": 8, "name": "Medicine", "image": "https://i.postimg.cc/PfMPkW63/Duricef.jpg"}
   ],
   "users": [
     {
       "id": 1,
       "name": "Mennatullah",
-      "email": "mennatullah.mohammed@msa.edu.eg",
+      "email": "mennatullah10102024@gmail.com",
       "password": "M$123$M"
     }
   ]
 }
-
